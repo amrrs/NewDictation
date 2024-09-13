@@ -1,5 +1,5 @@
 # NewDictation
-This is a mac app using Whisper running on Apple Neural Engine powered by Whisperkit
+This is a mac app using Whisper running on Apple Neural Engine powered by [Whisperkit](https://github.com/argmaxinc/whisperkit)
 
 Credit: https://github.com/argmaxinc/WhisperKit/tree/main/Examples/WhisperAX
 
