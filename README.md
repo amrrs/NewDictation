@@ -3,4 +3,4 @@ This is a mac app using Whisper running on Apple Neural Engine powered by Whispe
 
 Credit: https://github.com/argmaxinc/WhisperKit/tree/main/Examples/WhisperAX
 
-<img width="893" alt="image" src="https://github.com/user-attachments/assets/07670acc-cdcc-4da6-967c-f813ad685cbe">
+<img width="1263" alt="image" src="https://github.com/user-attachments/assets/e961a836-9755-4aa6-9416-e7d11416d16f">
